@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  #app-container {
+    width: 90%;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  h1 {
+    text-align: center;
+    color: darkslategray;
+    font-size: 2em;
+  }
+  
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  
+  section h2 {
+    color: steelblue;
+    font-size: 1.5em;
+    border-bottom: 2px solid lightgray;
+    padding-bottom: 5px;
+  }
+  
+  
+  div {
+    margin-top: 10px;
+  }
+  
+  
+  #user-list, #post-list, #comment-list, #address-list {
+    background-color: white;
+    padding: 15px;
+    margin-top: 10px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+  }
+  
+  
+  #user-list h3, #post-list h3, #comment-list h3, #address-list h3 {
+    color: teal;
+  }
+  
+  
+  #address-list div {
+    margin-bottom: 15px;
+    background-color: lightgrey;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px lightblue;
+  }
+  
+  
+  
